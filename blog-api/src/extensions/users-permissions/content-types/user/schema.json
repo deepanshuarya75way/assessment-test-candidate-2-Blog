@@ -10,7 +10,7 @@
   },
   "options": {
     "timestamps": true
-  },
+  }, 
   "attributes": {
     "username": {
       "type": "string",
