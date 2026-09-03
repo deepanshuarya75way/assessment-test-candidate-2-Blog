@@ -10,6 +10,7 @@ export interface AdminApiToken extends Struct.CollectionTypeSchema {
     singularName: 'api-token';
   };
   options: {
+    test:saksham,
     draftAndPublish: false;
   };
   pluginOptions: {
